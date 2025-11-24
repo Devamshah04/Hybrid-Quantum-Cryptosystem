@@ -91,3 +91,9 @@ Context: The official standardization of the Kyber algorithm (ML-KEM) used for t
 - National Security Agency (NSA). (2022). Commercial National Security Algorithm Suite 2.0 (CNSA 2.0). Cybersecurity Advisory.
 
 Context: The strategic guidance mandating the shift to quantum-resistant algorithms for National Security Systems.
+
+## **Appendix**
+
+<img width="1476" height="994" alt="image" src="https://github.com/user-attachments/assets/9534722c-60dd-45c6-a941-7d3493ff5f23" />
+
+**Fig-1: Output of the ML-KEM + AES-256 implementation**
